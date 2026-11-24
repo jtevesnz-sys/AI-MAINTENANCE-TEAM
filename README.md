@@ -76,5 +76,4 @@ continuous monitoring or autonomous agent operation.
 
 ## Release status
 
-Prepared for private development and review. Public release, license selection,
-security review and independent validation remain outstanding.
+License selection, security review and independent validation remain outstanding.
